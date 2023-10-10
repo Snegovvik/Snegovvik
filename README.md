@@ -1,21 +1,22 @@
-# Привет, меня зовут Артем!
+# Привет, меня зовут Алексей!
 
 ---
 
 ### 👨‍💻 Обо мне:
 
-Я тестировщик и создатель курсов по различным направлениям тестирования. Основной домен - тестирование веб-приложений (front + back). У меня есть канал на YouTube с аудиторией более 158.000 человек. Зв время преподавтаельсккой деятельности обучил более 100000 студентов на разных платформах.
+Меня зовут Алексей, я тестировщик. Люблю находить ошибки и разбираться в причинах их возникновения. На данном этапе заинтересован именно в ручном тестировании, но готов и активно изучать автотесты на Python. 
+Мне интересно как тестирование web - сайтов, так и приложений на мобильных платформах IOS и Android, хотел бы внести свой вклад в обеспечение еще более быстрых и качественных сервисов.
 
-- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artsiomrusau/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:qa.rusau@gmail.com)
+- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alexey-galtsev-0a2203294/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexei.galtsev@gmail.com)
 
 ---
 ### 🤝 Социальные сети:
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/artsiomrusau/" target="_blank">
+    <a href="https://www.linkedin.com/in/alexey-galtsev-0a2203294/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
-    <a href="https://t.me/artsiom_qa" target="_blank">
+    <a href="https://t.me/Alex25811" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
   </div>
