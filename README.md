@@ -7,7 +7,7 @@
 Меня зовут Алексей, я тестировщик. Люблю находить ошибки и разбираться в причинах их возникновения. На данном этапе заинтересован именно в ручном тестировании, но готов и активно изучать автотесты на Python. 
 Мне интересно как тестирование web - сайтов, так и приложений на мобильных платформах IOS и Android, хотел бы внести свой вклад в обеспечение еще более быстрых и качественных сервисов.
 
-- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alexey-galtsev-0a2203294/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexei.galtsev@gmail.com)
+- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@alexey-galtsev-0a2203294-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alexey-galtsev-0a2203294/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexei.galtsev@gmail.com)
 
 ---
 ### 🤝 Социальные сети:
